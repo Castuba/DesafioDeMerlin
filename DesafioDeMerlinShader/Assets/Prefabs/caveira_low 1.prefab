@@ -91,7 +91,7 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
+  serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
@@ -132,7 +132,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4487429133826149405
 Transform:
   m_ObjectHideFlags: 0
@@ -630,12 +630,12 @@ PrefabInstance:
     - target: {fileID: 7108565468507217606, guid: 742403ea7821aaa41a8a895270212edc,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7108565468507217606, guid: 742403ea7821aaa41a8a895270212edc,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7182177212411333735, guid: 742403ea7821aaa41a8a895270212edc,
         type: 3}
