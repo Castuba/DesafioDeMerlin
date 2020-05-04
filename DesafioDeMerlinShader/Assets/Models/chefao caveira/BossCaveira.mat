@@ -78,6 +78,7 @@ Material:
     - _UseAoMap: 0
     - _UseColorMap: 1
     - _UseEmissiveMap: 1
+<<<<<<< Updated upstream
     - _UseMetallicMap: 0
     - _UseNormalMap: 0
     - _UseRoughnessMap: 0
@@ -85,5 +86,14 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 4, g: 4, b: 0, a: 1}
+=======
+    - _UseMetallicMap: 1
+    - _UseNormalMap: 1
+    - _UseRoughnessMap: 1
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.1965105, g: 0, b: 0.2264151, a: 1}
+    - _EmissionColor: {r: 1.0759768, g: 1.0759768, b: 0, a: 1}
+>>>>>>> Stashed changes
     - _UvOffset: {r: 0, g: 0, b: 0, a: 0}
     - _UvTiling: {r: 1, g: 1, b: 0, a: 0}
